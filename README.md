@@ -1,2 +1,1 @@
-# GitHubCloneProject
-My second repository with ALX AFRICA
+This is the description of my repo
